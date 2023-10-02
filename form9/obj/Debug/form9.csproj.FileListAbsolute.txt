@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form9\form9\bin\Debug\form9.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form9\form9\bin\Debug\form9.exe
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form9\form9\bin\Debug\form9.pdb
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form9\form9\obj\Debug\form9.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form9\form9\obj\Debug\form9.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form9\form9\obj\Debug\form9.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form9\form9\obj\Debug\form9.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form9\form9\obj\Debug\form9.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form9\form9\obj\Debug\form9.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form9\form9\obj\Debug\form9.exe
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form9\form9\obj\Debug\form9.pdb
